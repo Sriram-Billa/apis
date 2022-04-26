@@ -28,7 +28,7 @@
         "imageURL": "http://clipart-library.com/newimages/rose-clip-art-1.png"
     },
 	{
-        "productId": 3,
+        "productId": 4,
         "productName": "Captain America",
         "productCode": "Captail America-1",
         "releaseDate": "May 10,2020",
@@ -37,7 +37,35 @@
         "starRating": 5,
         "imageURL": "http://clipart-library.com/2020/6318548be37f8c33a9da5fc5217b5d9b.png"
     }
-	
-	
+	, {
+      productId: 5,
+      productName: 'Leaf Rake',
+      productCode: 'LRK-0012',
+      productDescription: 'Leaf Rake with 48-inch handle',
+      releaseDate: 'March 20,2022',
+      price: 20.5,
+      starRating: 3.5,
+      imageURL: '/assets/LeafRake.png',
+    },
+    {
+      productId: 6,
+      productName: 'Garden Cart',
+      productCode: 'GDN-0123',
+      productDescription: '15 gallon capacity',
+      releaseDate: 'April 20,2019',
+      price: 19.99,
+      starRating: 4.2,
+      imageURL: '/assets/GardenCart.png',
+    },
+    {
+      productId: 7,
+      productName: 'Hammer',
+      productCode: 'HXT-0123',
+      productDescription: 'Curved claw steel hammer',
+      releaseDate: 'May 21,2016',
+      price: 21.99,
+      starRating: 4.1,
+      imageURL: '/assets/hammer.jpg',
+    }
 	
     ]
